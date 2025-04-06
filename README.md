@@ -21,6 +21,10 @@ Curious about the unique identifiers tied to your PC? 🔍 Whether you're troubl
 
 ---
 
+📺 [**▶️ How to Use HWID Checker (YouTube 📺)**](https://youtu.be/b8XyEwxpccE?list=PLmypdSVeKBvxZqaHoDD_GCZZV_cuKVYlQ)  
+![YouTube Thumbnail](https://img.youtube.com/vi/b8XyEwxpccE/0.jpg)
+
+
 ## 🔍 What Is an HWID Checker?
 
 An HWID Checker is a tool that displays the unique Hardware IDs (HWIDs) assigned to your PC’s components — like your motherboard, CPU, GPU, hard drives, and MAC address. These IDs act as digital fingerprints, identifying your system for software, games, or diagnostics.
@@ -166,6 +170,3 @@ This HWID Checker includes:
 3. Click “Scan HWIDs”  
 4. View your hardware IDs  
 5. Save the list if needed  
-
-📺 [**▶️ How to Use HWID Checker (YouTube 📺)**](https://youtu.be/b8XyEwxpccE?list=PLmypdSVeKBvxZqaHoDD_GCZZV_cuKVYlQ)  
-![YouTube Thumbnail](https://img.youtube.com/vi/b8XyEwxpccE/0.jpg)
